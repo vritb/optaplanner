@@ -2,7 +2,7 @@
 :sonarBadge: image:https://sonarcloud.io/api/project_badges/measure?project={projectKey}
 :sonarLink: link="https://sonarcloud.io/dashboard?id={projectKey}"
 
-:branch: main
+:branch: ckd
 
 :jenkinsUrl: https://eng-jenkins-csb-business-automation.apps.ocp-c1.prod.psi.redhat.com/job/KIE/job/optaplanner
 :branchJenkinsUrl: {jenkinsUrl}/job/{branch}
